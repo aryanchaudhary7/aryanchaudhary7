@@ -18,7 +18,9 @@ def MyLife(){
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanchaudhary7&label=Profile%20views&color=0e75b6&style=flat" alt="aryanchaudhary7" /> </p>
 
+<img align="right" width="380" alt="Code" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
+<img align="right" width="150" height="100" src="https://media.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif"/>
 
 <p align="left"> <a href="https://twitter.com/aryan6538" target="blank"><img src="https://img.shields.io/twitter/follow/aryan6538?logo=twitter&style=for-the-badge" alt="aryan6538" /></a> </p>
 
