@@ -1,9 +1,24 @@
+````python
+# "𝐒𝐮𝐜𝐜𝐞𝐬𝐬 𝐢𝐬 𝐧𝐨𝐭 𝐚 𝐃𝐞𝐬𝐭𝐢𝐧𝐚𝐭𝐢𝐨𝐧, 𝐈𝐭'𝐬 𝐚 𝐉𝐨𝐮𝐫𝐧𝐞𝐲. 𝐓𝐡𝐞𝐫𝐞 𝐚𝐫𝐞 𝐧𝐨 𝐅𝐮𝐥𝐥 𝐒𝐭𝐨𝐩𝐬, 𝐨𝐧𝐥𝐲 𝐂𝐨𝐦𝐦𝐚𝐬."
+
+def MyLife(){
+    contribution = 0
+    while(DREAMS){
+        consistency = planing()
+        growth = hard_work()
+        success = evaluate(growth, consistency)
+        contribution += success
+    }
+    return contribution
+}
+````
+
 <h1 align="center">Hi 👋, I'm Aryan Chaudhary</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanchaudhary7&label=Profile%20views&color=0e75b6&style=flat" alt="aryanchaudhary7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanchaudhary7" alt="aryanchaudhary7" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/aryan6538" target="blank"><img src="https://img.shields.io/twitter/follow/aryan6538?logo=twitter&style=for-the-badge" alt="aryan6538" /></a> </p>
 
